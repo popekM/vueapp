@@ -1,8 +1,8 @@
 export default {
-    apiKey: "AIzaSyCxm3EIum62b_TWbb3zQ8WTUUqqCLstnTI",
-    authDomain: "vueapp-8d30e.firebaseapp.com",
-    databaseURL: "https://vueapp-8d30e.firebaseio.com",
-    projectId: "vueapp-8d30e",
-    storageBucket: "vueapp-8d30e.appspot.com",
-    messagingSenderId: "985598142848"
+    apiKey: 'AIzaSyB7Nra65tGzyPwm_Zgi3gQW1w1Hzf7ojAI',
+    authDomain: 'vueapp-6ba37.firebaseapp.com',
+    databaseURL: 'https://vueapp-6ba37.firebaseio.com',
+    projectId: 'vueapp-6ba37',
+    storageBucket: 'vueapp-6ba37.appspot.com',
+    messagingSenderId: '562109931550'
   };
